@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title:   Daniel Nieves
+email: danielnievess.1999@gmail.com
+url: https://daniel021119.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+skills: "Cybersecurity - Analyst -  " Pen Tester"
+meta_author: Nieves Daniel
 
 # Google webmaster tools
 google_verify:
@@ -25,10 +25,10 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: ffe8d6 #80B3FF
+  primary-rgb: "255,232,214" #"128,179,255"
+  secondary: ddbea9 #FD6E8A
+  secondary-dark: cb997e #A2122F
 
 # Footer settings
 footer:
